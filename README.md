@@ -40,3 +40,11 @@
 ![280x653](https://github.com/cclarice/tasks/blob/master/shopping-cart-280x653.png)
 
 # Задача 3 «JS. Структуры данных»
+
+Ссылка на репозиторий: [shopping-cart](https://github.com/cclarice/shopping-cart)<br>
+
+Явно не было описано как реализовать структуры, <br>
+решил реализовать как Объект Класс и Массив
+
+![Result](https://github.com/cclarice/structs/blob/master/output.png)
+
