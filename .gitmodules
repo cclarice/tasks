@@ -1,0 +1,4 @@
+[submodule "https://github.com/cclarice/shopping-cart"]
+	url = shopping-cart
+[submodule "https://github.com/cclarice/structs"]
+	url = structs
